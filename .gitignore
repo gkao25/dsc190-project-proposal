@@ -2,3 +2,4 @@ data_generation/config.env
 real_pokemon_data/pokemon_images
 real_pokemon_data/pokemon_complete_dataset
 processed_data.csv
+real_pokemon_data/large_images
